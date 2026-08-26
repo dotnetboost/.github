@@ -12,7 +12,6 @@ DotNetBoost is a growing collection of lightweight, focused libraries for the .N
 |---|---|---|
 | **Database Settings Manager** | Manage application settings directly from your database, with a clean API for reading, updating, and caching config values at runtime. | ✅ Available |
 | **Multilingual** | Simplify localization and multi-language support in .NET web apps. | 🚧 Coming soon |
-| **FileManager** | Streamlined file upload, storage, and management for .NET applications. | 🚧 Coming soon |
 
 More libraries are planned — this list will keep growing.
 
